@@ -1,7 +1,11 @@
+<?php
 
-function dd($dump){
+//function dd($dump){
 
-    var_dump($dump);
+    //var_dump($dump);
 
-    die();
-}
+  //  die();
+//}
+
+?>
+
