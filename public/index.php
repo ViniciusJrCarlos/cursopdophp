@@ -5,7 +5,7 @@
 
     require "../bootstrap.php";
 
-    $routes = ['/' ->'controllers/index.php',];
+    $routes = ['/' <- 'controllers/index.php',];
 
     $uri = Uri::load();
 
